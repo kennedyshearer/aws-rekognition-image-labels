@@ -10,6 +10,11 @@ The application is implemented using **Python (Boto3)** and interacts with AWS s
 ## 🏗 Architecture Overview
 
 <!-- INSERT ARCHITECTURE DIAGRAM HERE -->
+<p align="center">
+  <img src="https://i.gyazo.com/b43422461c2f154daaa8ab7c8080ef17.png" alt="Diagram" width="700">
+  <br>
+  <sub>Figure 1: Architecture Diagram</sub>
+</p>
 
 ### Architecture Flow
 1. Images are uploaded to an Amazon S3 bucket
